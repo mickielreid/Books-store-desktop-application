@@ -39,9 +39,32 @@ I also added some extra functionality , such as the POS terminal.
       
 ## SnapShots:
 
-[!Main Screen] (/slide show of app/maninPage.PNG)
+**This is the Start Screen.**
+
+![Main Screen](/git-images/maninPage.PNG)
+
+**This is the book interface.**
+
+![Books interface](/git-images/bookInterface.PNG)
+
+**All Books Scene**
+
+![all books Scene](/git-images/allBooks.PNG)
+
+**This is the sales interface.**
+
+![sales interface](/git-images/saleInterface.PNG)
+
+**This is the sale POS.**
+
+![sale POS](/git-images/bookSalePOS.PNG)
       
-      
+    
+    
+   
+ **  Feel free if you want to contact me or make a pull request
+ 
+ 
       
       
       
